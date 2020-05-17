@@ -3,6 +3,7 @@
 Add favorites github repos and see details and issues
 
 ![readme_assets/Github_Explorer.png](readme_assets/Github_Explorer.png)
+![readme_assets/Github_Explorer_Details.png](readme_assets/Github_Explorer_Details.png)
 
 ## Running localy
 
